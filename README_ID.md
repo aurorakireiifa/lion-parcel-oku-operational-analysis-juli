@@ -1,5 +1,5 @@
 # Analisis Data Operasional Lion Parcel OKU
-
+**Bahasa:** Bahasa Indonesia | [English](README_ENG.md)
 ### Evaluasi Kinerja Pengiriman dan Kualitas Data — Juli 2026
 
 ## 📌 Gambaran Proyek
